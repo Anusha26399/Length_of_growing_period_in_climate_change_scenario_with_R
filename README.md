@@ -22,6 +22,7 @@ To estimate how **climate change** affects the agricultural growing period by:
 - 📦 R Packages:
   - `ggplot2`
   - `lubridate`
+  - `dplyr`
 - 📈 Climate Data:
   - Future projections (CMIP6, RCP scenarios)
 
